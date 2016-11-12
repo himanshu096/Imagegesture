@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "124975052179",
+    "firebase_url": "https://admob-app-id-9607122217.firebaseio.com",
+    "project_id": "admob-app-id-9607122217",
+    "storage_bucket": "admob-app-id-9607122217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124975052179:android:646ee35599608b18",
+        "android_client_info": {
+          "package_name": "ga.himanshu.home.collegelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124975052179-0a7buasrrsnob10e7ltj52lh76vg4e20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6CFF78RfaAiHSDWg-h9FRb7c_TSyjVFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124975052179:android:ac57fb8d5f005467",
+        "android_client_info": {
+          "package_name": "com.example.himanshu.imageview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124975052179-0a7buasrrsnob10e7ltj52lh76vg4e20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6CFF78RfaAiHSDWg-h9FRb7c_TSyjVFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
